@@ -1,0 +1,12 @@
+
+@import url('http://fonts.cdnfonts.com/css/harry-potter');
+
+body {
+  margin: 0;
+  font-family: 'Harry Potter', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
